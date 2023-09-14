@@ -1,2 +1,3 @@
 # RickandMorty_api
-Projeto de api em python
+Projeto inicial para consumo de api usando ambiente virtual e a linguagem python.
+O projeto consiste em consumir dados como nome e especificações dos personagens do desenho Rick And Morty.
